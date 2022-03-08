@@ -1,2 +1,4 @@
 # React_Mission
-![저장](https://user-images.githubusercontent.com/88216930/157228137-950dbac5-3e58-4d80-b32f-760ee1a23a86.PNG)
+2차 Basic Mission 스크린샷
+![모두 지우기](https://user-images.githubusercontent.com/88216930/157231245-7259f39b-c271-4568-94e9-c7fb7762c1ae.PNG)
+
