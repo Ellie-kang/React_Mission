@@ -61,7 +61,7 @@ export default function Banner() {
                         <button 
                             className="banner__button info"
                     >
-                            <div className="space"></div>More Information
+                            <div className="space"></div> More Information
                         </button>
                     </div>
                     {/**DIV > 2 BUTTONS */}
@@ -81,8 +81,7 @@ export default function Banner() {
                         <Iframe 
                             width="640" 
                             height="360" 
-                            src={`https://www.youtube.com/embed/${movie.videos.results[0].key}
-                            ?controls=0&autoplay=1&loop=1&mute=1&playlist=${movie.videos.results[0].key}`} 
+                            src={`https://www.youtube.com/embed/${movie.videos.results[0].key}?controls=0&autoplay=1&loop=1&mute=1&playlist=${movie.videos.results[0].key}`} 
                             title="YouTube video player" 
                             frameborder="0" 
                             allow="autoplay; fullscreen" 
