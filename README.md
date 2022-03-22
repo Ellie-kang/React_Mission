@@ -21,7 +21,7 @@ Challenge Mission
 
 1. 터치 슬라이드 구현
 
-
+![터치 슬라이드](https://user-images.githubusercontent.com/88216930/159509692-7c29637b-109f-4689-a1b8-8adac16cb71d.gif)
 
 2. 리액트 애플리케이션 배포
 
