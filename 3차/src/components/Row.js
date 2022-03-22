@@ -46,7 +46,7 @@ export default function Row({ isLargeRow, title, id, fetchUrl }) {
             <Swiper 
             slidesPerView={5}
             spaceBetween={10}
-            slidesPerGroup={5} // 그룹으로 묶을 수, slidesPerView 와 같은 값을 지정하는게 좋음
+            // slidesPerGroup={5} // 그룹으로 묶을 수, slidesPerView 와 같은 값을 지정하는게 좋음
             loop={true}
             navigation={{  // 버튼 사용자 지정
                 nextEl: '.swiper-button-next',
