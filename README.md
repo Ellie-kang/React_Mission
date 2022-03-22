@@ -25,4 +25,6 @@ Challenge Mission
 
 2. 리액트 애플리케이션 배포
 
+https://github.com/Ellie-kang/Ellie-kang.github.io
+
 ![배포](https://user-images.githubusercontent.com/88216930/159477708-67e0246e-4cc9-4800-928a-b293c1f8e4ab.PNG)
