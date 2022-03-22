@@ -21,10 +21,10 @@ Challenge Mission
 
 1. 터치 슬라이드 구현
 
-![스크롤](https://user-images.githubusercontent.com/88216930/159475790-eabcc306-5748-4334-8bc4-9a5e489fbd2b.gif)
+
 
 2. 리액트 애플리케이션 배포
 
-https://github.com/Ellie-kang/Ellie-kang.github.io
+https://ellie-kang.github.io/
 
 ![배포](https://user-images.githubusercontent.com/88216930/159477708-67e0246e-4cc9-4800-928a-b293c1f8e4ab.PNG)
